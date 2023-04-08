@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+}
+.container {
+    width: 900px;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+}
+.email {
+    text-align: center;
+}
+.link, .bold {
+    font-weight: 700;
+}
